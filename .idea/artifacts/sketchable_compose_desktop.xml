@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sketchable-compose-desktop">
+    <output-path>$PROJECT_DIR$/sketchable-compose/build/libs</output-path>
+    <root id="archive" name="sketchable-compose-desktop.jar" />
+  </artifact>
+</component>

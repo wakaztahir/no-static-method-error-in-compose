@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">Sketchable</string>
+
+    <string name="admob_app_id">ca-app-pub-7864431654199564~5470455548</string>
+    <string name="interstial_id">ca-app-pub-7864431654199564/2882794574</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="delete">Delete</string>
+    <string name="delete_layer">Delete Layer</string>
+    <string name="rename_layer">Rename Layer</string>
+    <string name="delete_confirm_msg">Are you sure you want to delete this layer ?</string>
+    <string name="drag_icon">Drag Icon</string>
+    <string name="layers">Layers</string>
+    <string name="color_picker_icon">Color Picker Icon</string>
+    <string name="round_brush">Round Brush</string>
+    <string name="search">Search</string>
+    <string name="save_exit">Save and Exit</string>
+    <string name="save_exit_msg">Do you want to save and exit ?</string>
+    <string name="create_tag">Create Tag</string>
+    <string name="update_tag">Update Tag</string>
+    <string name="edit_tag">Edit Tag</string>
+    <string name="no_tags_matching">No tags match the search</string>
+    <string name="all">All</string>
+    <string name="export_sketchables">Export .sketchables</string>
+    <string name="import_sketchables">Import .sketchables</string>
+    <string name="no_file_selected">no file selected</string>
+    <string name="sketchable_import_msg">Mindmap Import succeeded</string>
+    <string name="export_sketchable_msg">Mindmaps export succeeded</string>
+    <string name="export_png">Export PNG</string>
+    <string name="export_pdf">Export PDF</string>
+    <string name="out_of_memory">Out of Memory , Please try to import / export a single sketchable at a time or decrease scale / quality</string>
+    <string name="couldnt_create_file">Could not create file</string>
+    <string name="selected_file_invalid">Invalid file / directory selected</string>
+    <string name="unknown_error">Unknown error occurred during export</string>
+    <string name="exporting_sketchable">Exporting Sketchable...</string>
+    <string name="export">Export</string>
+    <string name="importing_sketchable">Importing Sketchable...</string>
+    <string name="importi">Import</string>
+    <string name="scale">Scale</string>
+    <string name="view">View</string>
+    <string name="remove_ads">Remove Ads</string>
+
+</resources>
